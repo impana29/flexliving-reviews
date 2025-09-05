@@ -24,5 +24,44 @@
 "respondent": "Mark",
 "approved": false,
 "visiblePublic": false
+},
+{
+"id": "r3",
+"listingId": "101",
+"reviewType": "guest",
+"channel": "airbnb",
+"date": "2025-07-22T00:00:00.000Z",
+"isoDate": "2025-07-20T00:00:00.000Z",
+"rating": 5.0,
+"comment": "Great guest, left the place tidy.",
+"respondent": "Mark",
+"approved": false,
+"visiblePublic": false
+},
+{
+"id": "r4",
+"listingId": "102",
+"reviewType": "guest",
+"channel": "airbnb",
+"date": "2025-06-15T00:00:00.000Z",
+"isoDate": "2025-06-15T00:00:00.000Z",
+"rating": 3.8,
+"comment": "Small studio but good value.",
+"respondent": "Jess",
+"approved": false,
+"visiblePublic": false
+},
+{
+"id": "r5",
+"listingId": "102",
+"reviewType": "guest",
+"channel": "google",
+"date": "2025-08-05T00:00:00.000Z",
+"isoDate": "2025-08-05T00:00:00.000Z",
+"rating": 4.6,
+"comment": "Lovely host and quick communication.",
+"respondent": "Liam",
+"approved": false,
+"visiblePublic": false
 }
 ]
