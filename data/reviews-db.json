@@ -1,0 +1,28 @@
+[
+{
+"id": "r1",
+"listingId": "101",
+"reviewType": "guest",
+"channel": "airbnb",
+"date": "2025-08-01T00:00:00.000Z",
+"isoDate": "2025-08-01T00:00:00.000Z",
+"rating": 4.8,
+"comment": "Amazing location, very clean and easy check-in.",
+"respondent": "Alice",
+"approved": false,
+"visiblePublic": false
+},
+{
+"id": "r2",
+"listingId": "101",
+"reviewType": "guest",
+"channel": "booking.com",
+"date": "2025-07-20T00:00:00.000Z",
+"isoDate": "2025-07-20T00:00:00.000Z",
+"rating": 4.2,
+"comment": "Nice stay but the shower pressure could be better.",
+"respondent": "Mark",
+"approved": false,
+"visiblePublic": false
+}
+]
